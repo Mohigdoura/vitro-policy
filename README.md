@@ -13,8 +13,8 @@ The Vitro platform is currently intended **exclusively for users in Douz, Tunisi
 
 ## 🔒 View the Policies
 
-- [Privacy Policy](https://mohigdoura.github.io/vitro-privacy-policy/privacy.html)  
-- [Terms of Service](https://mohigdoura.github.io/vitro-privacy-policy/tos.html)
+- [Privacy Policy](https://mohigdoura.github.io/vitro-policy/privacy.html)  
+- [Terms of Service](https://mohigdoura.github.io/vitro-policy/tos.html)
 
 ## 📧 Contact
 
